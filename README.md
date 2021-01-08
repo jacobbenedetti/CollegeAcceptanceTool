@@ -4,7 +4,7 @@ This GUI allows users to input their GPA, SAT, and ACT and select a state. After
 # What I Learned
 This is a personal project that allowed me to further my Python skills, learn how to implement a GUI, and learn to build a web scrapper.
 
-# TECHNOLOGIES USED
+# Technologies Used
 - Python
 - PyQt5
 - Pandas
